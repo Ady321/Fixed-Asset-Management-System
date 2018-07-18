@@ -7,4 +7,4 @@ just import myapp.sql in phpmyadmin
 
 and run the login.php
 
-tnx
+thnaks
